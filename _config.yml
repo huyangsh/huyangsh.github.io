@@ -83,10 +83,10 @@ author:
   name             : "Yang Hu"
   avatar           : "profile.png"
   bio              : "Senior-year undergraduate at IIIS, Tsinghua University"
-  location         : "Beijing, China"
+  location         : "Beijing, PRC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            : "huyangshcn@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
