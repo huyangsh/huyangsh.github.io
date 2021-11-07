@@ -20,9 +20,9 @@ You may find a detailed downloadable version [here](/files/CV.pdf).
 + Research internship (Jan. 2021 ~ present), Caltech (remote), advised by [Prof. Adam Wierman](https://adamwierman.com/).
 + Research internship (Aug. 2021 ~ present), Carnegie Mellon University (remote), advised by [Prof. Guannan Qu](http://www.guannanqu.com/), co-advised by [Prof. Adam Wierman](https://adamwierman.com/).
 
-**Publications**\\
+**Publications**
 
-&ensp;(Please refer to the [*Publications*](/publications/) section.)
+&nbsp;&nbsp;(Please refer to the [*Publications*](/publications/) section.)
 
 **Honors and Awards**
 + National Scholarship for Undergraduates, 2019 & 2021.
