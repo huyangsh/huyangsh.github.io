@@ -18,7 +18,7 @@ I am a senior-year undergraduate at "Yao Class" affiliated to IIIS, Tsinghua Uni
 
 My research interests lie in the science of intelligent systems and decision making, such as optimal control theory, reinforcement learning and optimization.
 
-**Recent updates**\\
+**Recent updates**
 + *Oct. 2021*: Our paper "Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems" (advised by Prof. Adam Wierman) has been accepted to NeurIPS'2021 as Spotlight (top 3%)!
 
 **About "Yao Class"**\\
