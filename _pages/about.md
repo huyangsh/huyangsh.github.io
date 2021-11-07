@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<b><font size=5>**Hu Yang (胡扬)**</font></b>  
+<b><font size=5>Yang Hu (胡扬)</font></b>  
 Senior-year undergraduate  
 Institute for Interdisciplinary Information Sciences (IIIS)  
 Tsinghua University  
