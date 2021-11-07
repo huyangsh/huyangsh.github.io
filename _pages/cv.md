@@ -22,7 +22,7 @@ You may find a detailed downloadable version [here](/files/CV.pdf).
 
 **Publications**
 
-&nbsp;&nbsp;(Please refer to the [*Publications*](/publications/) section.)
+&nbsp;&nbsp;&nbsp;&nbsp;(Please refer to the [*Publications*](/publications/) section.)
 
 **Honors and Awards**
 + National Scholarship for Undergraduates, 2019 & 2021.
