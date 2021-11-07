@@ -9,12 +9,12 @@ redirect_from:
 
 You may find a detailed downloadable version [here](/files/CV.pdf).
 
-**Education**\\
+**Education**\
 + B.S. of Computer Science and Technology, Tsinghua University, 2022 (expected).
   + Affiliation: “Yao Class”, Institute of Interdisciplinary Information Sciences (IIIS).
-  + GPA: **3.95**; ranking: **1/54**.
+  + GPA: **3.95**, ranking **1/54** within the department.
 
-**Research experience**\\
+**Research experience**\
 + Undergraduate research assistant (Sept. 2019 ~ Dec. 2020), Tsinghua, advised by [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/).
 + Undergraduate research assistant (July 2020 ~ Dec. 2020), Tsinghua, advised by [Prof. Yang Yu](https://iiis.tsinghua.edu.cn/zh/yuy/).
 + Research internship (Jan. 2021 ~ present), Caltech (remote), advised by [Prof. Adam Wierman](https://adamwierman.com/).
@@ -24,7 +24,7 @@ You may find a detailed downloadable version [here](/files/CV.pdf).
 
   (Please refer to the [*Publications*](/publications/) section.)
 
-**Honors and Awards**\\
+**Honors and Awards**\
 + National Scholarship for Undergraduates, 2019 & 2021.
 + First-class Scholarship at Tsinghua (in memory of Nanxiang Jiang), 2020
 + Silver Medal of “Yao Award” at IIIS, Tsinghua, 2021.
