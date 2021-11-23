@@ -18,4 +18,4 @@ See [*arxiv: 2106.10497*](https://arxiv.org/pdf/2106.10497.pdf), or [*download h
 *Calculus of Consent via MARL: Legitimating the Collaborative Governance Supplying Public Goods*\\
 <u><b><i>Yang Hu</i></b></u>, Z. Zhu, S. Song, X. Liu, Y. Yu\\
 NeurIPS PERLS Workshop, 2021, Poster\\
-See [*arxiv: (to be added))*](https://arxiv.org/), or [*download here*](/files/papers/2021_PERLS'21_COVID19_MARL.pdf)
+See [*arxiv: 2111.10627*](https://arxiv.org/pdf/2111.10627.pdf), or [*download here*](/files/papers/2021_PERLS'21_COVID19_MARL.pdf)
