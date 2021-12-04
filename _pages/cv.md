@@ -10,7 +10,7 @@ redirect_from:
 You may find a detailed downloadable version [here](/files/CV.pdf).
 
 **Education**
-+ B.S. of Computer Science and Technology, Tsinghua University, 2022 (expected).
++ B.E. of Computer Science and Technology, Tsinghua University, 2022 (expected).
   + Affiliation: “Yao Class”, Institute of Interdisciplinary Information Sciences (IIIS).
   + GPA: **3.95**, ranking **1/54** within the department.
 
