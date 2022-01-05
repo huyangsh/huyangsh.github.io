@@ -22,4 +22,4 @@ See [*arxiv: 2110.08169*](https://arxiv.org/pdf/2110.08169.pdf).
 *On the Sample Complexity of Stabilizing LTI Systems*\\
 <u><b><i>Yang Hu</i></b></u>, G. Qu, A. Wierman\\
 manuscript in progress, 2021\\
-[*download here*](/files/papers/sample_complexity.pdf)
+[*download here (draft version)*](/files/papers/2022_stabilizing_controller_draft.pdf)
