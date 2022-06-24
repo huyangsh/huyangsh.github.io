@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 <b><font size=5>Yang Hu (胡扬)</font></b>\\
-Senior-year undergraduate\\
-Institute for Interdisciplinary Information Sciences (IIIS)\\
-Tsinghua University\\
+in-coming PhD student\\
+School of Engineering and Applied Sciences (SEAS)\\
+Harvard University\\
 Email: huyangshcn [at] gmail.com *(recommended)*, yanghu [at] g.harvard.edu
 
-I will join the School of Engineering and Applied Sciences ([SEAS](https://www.seas.harvard.edu/)) at Harvard University this fall. Previously, I graduated from Tsinghua University with summa cum laude, and got my bachelor's degree in Computer Science and Technology in June 2022. I was fortunate to be a member of "Yao Class".
+I will join the School of Engineering and Applied Sciences ([SEAS](https://www.seas.harvard.edu/)) at Harvard University this fall. Previously, in June 2022, I graduated from the Institute for Interdisciplinary Information Sciences ([IIIS](https://iiis.tsinghua.edu.cn/en/about/)) at Tsinghua University, and got my bachelor's degree in Computer Science and Technology with summa cum laude. I was fortunate to be a member of "Yao Class".
 
 My research interests lie in the science of intelligent systems and decision making, including optimal control theory, reinforcement learning and optimization.
 

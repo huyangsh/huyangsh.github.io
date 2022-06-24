@@ -12,14 +12,14 @@ You may find a detailed downloadable version [here](/files/CV.pdf).
 **Education**
 + B.E. of Computer Science and Technology, Tsinghua University, 2022.
   + Affiliation: “Yao Class”, Institute of Interdisciplinary Information Sciences (IIIS).
-  + GPA: **3.95**, ranking **1/54** within the department.
-  + Graduate with summa cum laude.
+  + Graduate with a 3.96/4.00 GPA, ranking 1/54 within the department.
+  + Receive summa cum laude upon graduation.
 
 **Research experience**
 + Undergraduate research assistant (Sept. 2019 ~ Dec. 2020), Tsinghua, advised by [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/).
 + Undergraduate research assistant (July 2020 ~ Dec. 2020), Tsinghua, advised by [Prof. Yang Yu](https://iiis.tsinghua.edu.cn/zh/yuy/).
-+ Research internship (Jan. 2021 ~ present), Caltech (remote), advised by [Prof. Adam Wierman](https://adamwierman.com/).
-+ Research internship (Aug. 2021 ~ present), Carnegie Mellon University (remote), advised by [Prof. Guannan Qu](http://www.guannanqu.com/), co-advised by [Prof. Adam Wierman](https://adamwierman.com/).
++ Research internship (Jan. 2021 ~ June 2022), Caltech (remote), advised by [Prof. Adam Wierman](https://adamwierman.com/).
++ Research internship (Aug. 2021 ~ Mar. 2022), Carnegie Mellon University (remote), advised by [Prof. Guannan Qu](http://www.guannanqu.com/), co-advised by [Prof. Adam Wierman](https://adamwierman.com/).
 
 **Publications**
 
