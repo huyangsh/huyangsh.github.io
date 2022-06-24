@@ -14,12 +14,12 @@ School of Engineering and Applied Sciences (SEAS)\\
 Harvard University\\
 Email: huyangshcn [at] gmail.com *(recommended)*, yanghu [at] g.harvard.edu
 
-I will join the School of Engineering and Applied Sciences ([SEAS](https://www.seas.harvard.edu/)) at Harvard University this fall. Previously, in June 2022, I graduated from the Institute for Interdisciplinary Information Sciences ([IIIS](https://iiis.tsinghua.edu.cn/en/about/)) at Tsinghua University, and got my bachelor's degree in Computer Science and Technology with summa cum laude. I was fortunate to be a member of "Yao Class".
+I will join the School of Engineering and Applied Sciences ([SEAS](https://www.seas.harvard.edu/)) at Harvard University this fall. Previously, in June 2022, I graduated from the Institute for Interdisciplinary Information Sciences ([IIIS](https://iiis.tsinghua.edu.cn/en/about/)) at Tsinghua University, and got my bachelor's degree in Computer Science and Technology with *summa cum laude*. I was fortunate to be a member of "Yao Class".
 
 My research interests lie in the science of intelligent systems and decision making, including optimal control theory, reinforcement learning and optimization.
 
 **Recent updates**
-+ *Mar. 2022*: I have decided to join Harvard for my PhD studies this fall.
++ *Mar. 2022*: I have decided to join Harvard for my PhD studies. See you in Boston this fall!
 + *Oct. 2021*: Our paper *"Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems"* (advised by [Prof. Adam Wierman](https://adamwierman.com/)) has been accepted to NeurIPS'2021 as Spotlight (top 3%)! [*(download here)*](https://arxiv.org/pdf/2106.10497.pdf)
 
 **About "Yao Class"**\\

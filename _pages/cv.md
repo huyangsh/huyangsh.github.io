@@ -13,7 +13,7 @@ You may find a detailed downloadable version [here](/files/CV.pdf).
 + B.E. of Computer Science and Technology, Tsinghua University, 2022.
   + Affiliation: “Yao Class”, Institute of Interdisciplinary Information Sciences (IIIS).
   + Graduate with a 3.96/4.00 GPA, ranking 1/54 within the department.
-  + Receive summa cum laude upon graduation.
+  + Receive *summa cum laude* upon graduation.
 
 **Research experience**
 + Undergraduate research assistant (Sept. 2019 ~ Dec. 2020), Tsinghua, advised by [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/).
