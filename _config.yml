@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Hu | CS PhD student @ Harvard"
+title                    : "Yang Hu"
 title_separator          : "-"
 name                     : &name "Yang Hu"
 description              : &description "Yang's academic personal website"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yang Hu (胡扬)"
   avatar           : "profile.jpg"
-  bio              : "G1 CS PhD Student, SEAS @ Harvard University"
+  bio              : "G1 CS PhD Student @ SEAS, Harvard"
   location         : "Boston, MA"
   employer         :
   pubmed           :
