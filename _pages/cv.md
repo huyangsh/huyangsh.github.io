@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You may find a detailed downloadable version [here](/files/CV.pdf).
+You may find a detailed PDF version [here](/files/CV.pdf).
 
 **Education**
 + PhD student in Computer Science, Harvard University, 2022 ~ TBD.

@@ -8,9 +8,9 @@ author_profile: true
 <font size="2" color="gray">(Authors with equal contribution are marked with asterisks (*).)</font>
 
 *Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity*\\
-Y. Lin\*, <u><b><i>Yang Hu</i></b></u>\*, G. Qu, T. Li, A. Wierman\\
-NeurIPS, 2022, Poster\\
-See [*arxiv: 2210.12312*](https://arxiv.org/abs/2210.12312), or [*download here*](/files/papers/2022A_NeurIPS'22_MPC_perturbation-based_pipeline.pdf).
+<font size="3">Y. Lin\*, <u><b><i>Yang Hu</i></b></u>\*, G. Qu, T. Li, A. Wierman</font>\\
+<font size="3">NeurIPS, 2022, Poster</font>\\
+Paper: [*arxiv: 2210.12312*](https://arxiv.org/abs/2210.12312), or [*download here*](/files/papers/2022A_NeurIPS'22_MPC_perturbation-based_pipeline.pdf).
 
 *On the Sample Complexity of Stabilizing LTI Systems*\\
 <u><b><i>Yang Hu</i></b></u>, G. Qu, A. Wierman\\
