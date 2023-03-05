@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font size="2">(Authors with equal contribution are marked with asterisks (*).)</font>
+<font size="2" color="gray">(Authors with equal contribution are marked with asterisks (*).)</font>
 
 *Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity*\\
 Y. Lin\*, <u><b><i>Yang Hu</i></b></u>\*, G. Qu, T. Li, A. Wierman\\
