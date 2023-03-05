@@ -11,7 +11,8 @@ redirect_from:
 <b><font size=5>Yang Hu (胡扬)</font></b>\\
 G1 CS PhD student\\
 SEAS, Harvard University\\
-Email: huyangshcn [at] gmail.com *(recommended)*, yanghu [at] g.harvard.edu
+Email: huyangshcn [at] gmail [dot] com *(personal)*,
+       yanghu [at] g [dot] harvard [dot] edu *(academic)*
 
 I am a first-year PhD student in Computer Science at Harvard University, affiliated to the John. A. Paulson School of Engineering and Applied Sciences ([SEAS](https://www.seas.harvard.edu/)). I am fortunate to be co-advised by [Prof. Na Li](https://nali.seas.harvard.edu/) and [Prof. Sham Kakade](https://sham.seas.harvard.edu/). I am also a member of [the Harvard Machine Learning Foundations Group](https://mlfoundations.org/).
 

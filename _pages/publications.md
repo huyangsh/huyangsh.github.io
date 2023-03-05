@@ -10,7 +10,7 @@ author_profile: true
 *Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity*\\
 Y. Lin\*, <u><b><i>Yang Hu</i></b></u>\*, G. Qu, T. Li, A. Wierman\\
 NeurIPS, 2022, Poster\\
-See [*arxiv: 2210.12312*](https://arxiv.org/abs/2210.12312) [*download here*](/files/papers/2022A_NeurIPS'22_MPC_perturbation-based_pipeline.pdf).
+See [*arxiv: 2210.12312*](https://arxiv.org/abs/2210.12312), or [*download here*](/files/papers/2022A_NeurIPS'22_MPC_perturbation-based_pipeline.pdf).
 
 *On the Sample Complexity of Stabilizing LTI Systems*\\
 <u><b><i>Yang Hu</i></b></u>, G. Qu, A. Wierman\\
@@ -20,7 +20,7 @@ See [*arxiv: 2202.07187*](https://arxiv.org/abs/2202.07187), or [*download here*
 *Perturbation-based Regret Analysis of Predictive Control in Linear Time Varying Systems*\\
 Y. Lin\*, <u><b><i>Yang Hu</i></b></u>\*, H. Sun\*, G. Shi\*, G. Qu\*, A. Wierman\\
 NeurIPS, 2021, **Spotlight (top 3%)**\\
-See [*arxiv: 2106.10497*](https://arxiv.org/abs/2106.10497), or [*download here*](/files/papers/2021A_NeurIPS'21_MPC_regret_analysis.pdf).pdf).\\
+See [*arxiv: 2106.10497*](https://arxiv.org/abs/2106.10497), or [*download here*](/files/papers/2021A_NeurIPS'21_MPC_regret_analysis.pdf).\\
 Slides for presentation can be found [*here*](/files/slides/2021A_MPC_regret_analysis_slides.pdf).
 
 *Calculus of Consent via MARL: Legitimating the Collaborative Governance Supplying Public Goods*\\
