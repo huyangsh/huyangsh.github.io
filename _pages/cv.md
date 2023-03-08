@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "About"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-You may find a detailed PDF version [here](/files/CV.pdf).
+A detailed PDF version can be downloaded [here](/files/CV.pdf).
 
 **Education**
 + PhD student in Computer Science, Harvard University, 2022 ~ TBD.
