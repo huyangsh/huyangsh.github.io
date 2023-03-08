@@ -24,5 +24,5 @@ I am broadly interested in the theory behind intelligent systems and decision ma
 
 ### Contact
 --------------------
-Email: huyangshcn [at] gmail [dot] com *(personal)*,  
-       yanghu [at] g [dot] harvard [dot] edu *(academic)*
+Email: huyangshcn [at] gmail [dot] com *(personal)*, yanghu [at] g [dot] harvard [dot] edu *(academic)*.
+Office: 150 Western Ave, Allston, MA 02134.
