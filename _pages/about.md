@@ -14,7 +14,7 @@ SEAS, Harvard University
 
 I am a first-year PhD student in Computer Science at Harvard University, affiliated to the John. A. Paulson School of Engineering and Applied Sciences ([SEAS](https://www.seas.harvard.edu/)). I am fortunate to be co-advised by [Prof. Na Li](https://nali.seas.harvard.edu/) and [Prof. Sham Kakade](https://sham.seas.harvard.edu/). I am also a member of [the Harvard Machine Learning Foundations Group](https://mlfoundations.org/).
 
-I am broadly interested in the theory behind intelligent systems and decision making. My current research focuses on multi-agent systems, including game theory, multi-agent reinforcement learning, and multi-agent online control.
+I am broadly interested in the theory behind intelligent systems and decision making, with the aim of having a better understanding of the nature of collective intelligence. My current research focuses on multi-agent systems, including game theory, multi-agent reinforcement learning, and multi-agent online control.
 
 ### Recent updates
 --------------------
@@ -24,5 +24,6 @@ I am broadly interested in the theory behind intelligent systems and decision ma
 
 ### Contact
 --------------------
-Email: huyangshcn [at] gmail [dot] com *(personal)*, yanghu [at] g [dot] harvard [dot] edu *(academic)*.
+Email: huyangshcn [at] gmail [dot] com *(personal)*,  
+<span style="embedding:6.5em>yanghu [at] g [dot] harvard [dot] edu *(academic)*.</span>  
 Office: 150 Western Ave, Allston, MA 02134.
