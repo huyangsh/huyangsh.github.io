@@ -26,7 +26,3 @@ Y. Lin\*, <u><b><i>Yang Hu</i></b></u>\*, H. Sun\*, G. Shi\*, G. Qu\*, A. Wierma
 <u><b><i>Yang Hu</i></b></u>, Z. Zhu, S. Song, X. Liu, Y. Yu  
 <span style="font-size:16px">NeurIPS PERLS Workshop, 2021, Poster</span>  
 <span style="font-size:16px">Downloads: [*paper*](/files/papers/2021_PERLS'21_COVID19_MARL.pdf) (or [*arxiv: 2111.10627*](https://arxiv.org/abs/2111.10627)).</span>
-
-*Containerized Distributed Value-Based Multi-Agent Reinforcement Learning,*  
-S. Wu\*, T. Wang\*, C. Li, <u><b><i>Yang Hu</i></b></u>, C. Zhang  
-<span style="font-size:16px">Downloads: [*paper*](/files/papers/2021_distributed_MARL_framework.pdf) (or [*arxiv: 2110.08169*](https://arxiv.org/abs/2110.08169)).</span>

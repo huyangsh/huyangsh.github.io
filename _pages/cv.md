@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+*(Last updated: Mar. 2023)*
+
 A detailed PDF version can be downloaded [here](/files/CV.pdf).
 
 **Education**
