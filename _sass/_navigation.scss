@@ -201,6 +201,18 @@
     cursor: pointer;
   }
 
+  @media screen and (max-width: 600px) {
+    img {
+      visibility: hidden;
+    }
+  }
+  @media screen and (min-width: 601px) {
+    img {
+      position: absolute;
+      right: 0px;
+    }
+  }
+
   .visible-links {
     display: table;
 
@@ -247,11 +259,6 @@
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
       }
-    }
-
-    img {
-      position: absolute;
-      right: 0px;
     }
   }
 
@@ -310,10 +317,6 @@
       &:last-child {
         border-bottom: none;
       }
-    }
-
-    img {
-      visibility: hidden;
     }
   }
 }
