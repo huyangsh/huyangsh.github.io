@@ -19,12 +19,13 @@ I am broadly interested in the theoretical foundations of intelligent systems an
 My CV can be downloaded [here](/files/CV.pdf) *(last updated: Mar. 2023)*.
 
 
+<div class="infoblock"><div class="blockcontent">
 ### Recent updates
 --------------------
 + *Feb. 2023*: I am invited to serve as the reviewer of the 5th L4DC conference.
 + *Oct. 2022*: Our papers *"Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity"* [*(download here)*](https://arxiv.org/pdf/2210.12312.pdf) and *"On the Sample Complexity of Stabilizing LTI Systems"* [*(download here)*](https://arxiv.org/pdf/2202.07187.pdf) have been accepted by NeurIPS'22 as Posters!
 + *Aug. 2022*: I am excited to join Harvard for my PhD studies. See you in Boston this fall!
-
+</div></div>
 
 ### Contact
 --------------------
