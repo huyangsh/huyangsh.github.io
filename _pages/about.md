@@ -31,8 +31,7 @@ My CV can be downloaded [here](/files/CV.pdf) *(last update: Mar. 2023)*.
 
 ### Contact
 --------------------
-<table style="font-size:1em;border=0;"><tbody>
-  <style>td{padding:0;border:0}</td>
+<table class="unbordered-table"><tbody>
   <tr><td width="64px">Email:</td><td>huyangshcn [at] gmail [dot] com <em>(personal)</em>,</td></tr>
   <tr><td></td><td>yanghu [at] g [dot] harvard [dot] edu <em>(academic)</em>.</td></tr>
   <tr><td>Office:</td><td>SEC building, 150 Western Ave, Allston, MA 02134.</td></tr>
