@@ -7,6 +7,9 @@ author_profile: true
 
 <span style="font-size:13px;color:gray">(Authors with equal contribution are marked with asterisks (*).)</span>
 
+
+### Conference papers
+--------------------
 *Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity*  
 Y. Lin\*, <u><b><i>Yang Hu</i></b></u>\*, G. Qu, T. Li, A. Wierman  
 <span style="font-size:16px">NeurIPS, 2022, Poster</span>  
@@ -22,6 +25,9 @@ Y. Lin\*, <u><b><i>Yang Hu</i></b></u>\*, H. Sun\*, G. Shi\*, G. Qu\*, A. Wierma
 <span style="font-size:16px">NeurIPS, 2021, **Spotlight (top 3%)**</span>  
 <span style="font-size:16px">Downloads: [*paper*](/files/papers/2021A_NeurIPS'21_MPC_regret_analysis.pdf) (or [*arxiv: 2106.10497*](https://arxiv.org/abs/2106.10497)), [*slides*](/files/slides/2021A_MPC_regret_analysis_slides.pdf), [*poster*](/files/slides/2021A_MPC_regret_analysis_poster.pdf).</span>
 
+
+### Preprints
+--------------------
 *Calculus of Consent via MARL: Legitimating the Collaborative Governance Supplying Public Goods*  
 <u><b><i>Yang Hu</i></b></u>, Z. Zhu, S. Song, X. Liu, Y. Yu  
 <span style="font-size:16px">NeurIPS PERLS Workshop, 2021, Poster</span>  

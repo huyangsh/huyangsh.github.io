@@ -16,7 +16,7 @@ I am a first-year PhD student in Computer Science at Harvard University, affilia
 
 I am broadly interested in the theoretical foundations of intelligent systems and **decision making**, with the ultimate goal of obtaining a better understanding of **collective intelligence in complex systems**. More specifically, I am devoted to designing **efficient algorithms** that enables learning-based strategic moves in large-scale multi-agent systems equipped with various dynamics structures, and developing theory that reveals the **fundamental limit** of online decision-making algorithms. My current research focuses on **multi-agent systems**, which lies in the intersection of game theory, online control, reinforcement learning and machine learning, and is thus interdisciplinary by nature.
 
-My CV can be downloaded [here](/files/CV.pdf) *(last updated: Mar. 2023)*.
+My CV can be downloaded [here](/files/CV.pdf) *(last update: Mar. 2023)*.
 
 
 <div class="infoblock"><div class="blockcontent">
@@ -27,6 +27,7 @@ My CV can be downloaded [here](/files/CV.pdf) *(last updated: Mar. 2023)*.
     <li><strong>Oct. 2022</strong>: Our papers <em>"Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity"</em> <a href="https://arxiv.org/pdf/2210.12312.pdf"><em>(download here)</em></a> and <em>"On the Sample Complexity of Stabilizing LTI Systems"</em> <a href="https://arxiv.org/pdf/2202.07187.pdf"><em>(download here)</em></a> have been accepted by NeurIPS'22 as Posters!</li>
     <li><strong>Aug. 2022</strong>: I am excited to join Harvard for my PhD studies. See you in Boston this fall!</li>
 </ul></div></div>
+
 
 ### Contact
 --------------------

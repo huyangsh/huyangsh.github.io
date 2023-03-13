@@ -7,11 +7,13 @@ redirect_from:
   - /resume
 ---
 
-*(Last updated: Mar. 2023)*
+*(Last update: Mar. 2023)*
 
 A detailed PDF version can be downloaded [here](/files/CV.pdf).
 
-**Education**
+
+### Education
+--------------------
 + PhD student in Computer Science, Harvard University, 2022 ~ TBD.
   + I am fortunate to be co-advised by [Prof. Na Li](https://nali.seas.harvard.edu/) and [Prof. Sham Kakade](https://sham.seas.harvard.edu/). I am also a member of [the Harvard Machine Learning Foundations Group](https://mlfoundations.org/).
 + B.E. in Computer Science and Technology, Tsinghua University, 2018 ~ 2022.
@@ -20,6 +22,7 @@ A detailed PDF version can be downloaded [here](/files/CV.pdf).
   + In my undergraduate years, I worked closely with [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Guannan Qu](http://www.guannanqu.com/) on online control. Prior to that, my first research projects were advised by [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/) and [Prof. Yang Yu](https://iiis.tsinghua.edu.cn/zh/yuy/). I would like to thank all of them for their efforts and help.
 
 
-**Services**
+### Services
+--------------------
 + Peer review:
   + *the Annual Learning for Dynamics & Control Conference* (L4DC): 2023.
