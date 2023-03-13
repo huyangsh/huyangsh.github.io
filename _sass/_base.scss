@@ -163,18 +163,25 @@ hr {
 /* lists */
 
 ul {
-  margin-left: 0.5em;
+  margin-left: -0.5em;
 }
 
 ul li,
 ol li {
   margin-bottom: 0.5em;
-  margin-left: -1em;
+  margin-left: 0em;
 }
 
 li ul,
 li ol {
-  margin-top: 0.5em;
+  margin-top: 0.2em;
+  margin-left: 0em;
+}
+
+li ul li,
+li ol li {
+  margin-bottom: 0.2em;
+  margin-left: 0em;
 }
 
 /*
