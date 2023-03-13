@@ -22,7 +22,7 @@ My CV can be downloaded [here](/files/CV.pdf) *(last update: Mar. 2023)*.
 <div class="infoblock"><div class="blockcontent">
   <h3 id="recent updates" style="margin:0.5em 0em 0.5em">Recent updates</h3>
   <hr style="margin:0.2em 0em 0.2em">
-  <ul style="margin:0.5em 0em 0.5em">
+  <ul style="margin:0.5em -0.5em 0.5em">
     <li><strong>Feb. 2023</strong>: I am invited to serve as the reviewer of the 5th L4DC conference.</li>
     <li><strong>Oct. 2022</strong>: Our papers <em>"Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity"</em> <a href="https://arxiv.org/pdf/2210.12312.pdf"><em>(download here)</em></a> and <em>"On the Sample Complexity of Stabilizing LTI Systems"</em> <a href="https://arxiv.org/pdf/2202.07187.pdf"><em>(download here)</em></a> have been accepted by NeurIPS'22 as Posters!</li>
     <li><strong>Aug. 2022</strong>: I am excited to join Harvard for my PhD studies. See you in Boston this fall!</li>
@@ -31,6 +31,11 @@ My CV can be downloaded [here](/files/CV.pdf) *(last update: Mar. 2023)*.
 
 ### Contact
 --------------------
+<table frame=none rules=none>
+  <tr><td>Email:</td><td>huyangshcn [at] gmail [dot] com *(personal)*,</td></tr>
+  <tr><td></td><td>yanghu [at] g [dot] harvard [dot] edu *(academic)*.</td></tr>
+  <tr><td>Office:</td><td>SEC building, 150 Western Ave, Allston, MA 02134.</td></tr>
+</table>
 Email: &ensp;huyangshcn [at] gmail [dot] com *(personal)*,  
 &emsp;&emsp;&emsp;&nbsp;yanghu [at] g [dot] harvard [dot] edu *(academic)*.  
 Office: SEC building, 150 Western Ave, Allston, MA 02134.
